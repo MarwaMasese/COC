@@ -1,2 +1,0 @@
-# COC
-React website
